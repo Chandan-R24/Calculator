@@ -1,0 +1,1 @@
+A beginner-friendly calculator built in Python that runs in the terminal and performs basic arithmetic and mathematical operations. Ideal for learning Python basics such as functions, loops, conditionals, and error handling.
