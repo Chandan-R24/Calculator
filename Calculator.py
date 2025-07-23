@@ -43,6 +43,7 @@ while True:
         choice=int(input('Enter the operation(1-8): '))
     except ValueError:
         print('Invalid input!, Please enter a number in the range of (1,8)')
+        continue
 
     if (choice==8):
         print('Exiting Calculator, Goodbye!')
